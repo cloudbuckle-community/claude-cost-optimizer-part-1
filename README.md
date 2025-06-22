@@ -1,4 +1,4 @@
-# Claude Cost Optimizer
+                                                                                            # Claude Cost Optimizer
 
 Production-ready framework for optimizing Anthropic Claude API costs on Amazon Bedrock. Achieve 50-70% cost reduction through intelligent routing, smart caching, and operational optimization strategies.
 
@@ -29,7 +29,7 @@ aws configure
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/claude-cost-optimizer.git
+git clone https://github.com/cloudbuckle-community/claude-cost-optimizer-part-1.git
 cd claude-cost-optimizer
 
 # Create virtual environment
@@ -173,7 +173,7 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 ### Development Setup
 ```bash
 # Clone for development
-git clone https://github.com/YOUR_USERNAME/claude-cost-optimizer.git
+git clone https://github.com/cloudbuckle-community/claude-cost-optimizer-part-1.git
 cd claude-cost-optimizer
 
 # Install development dependencies

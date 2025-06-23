@@ -163,7 +163,7 @@ redis_pool = redis.ConnectionPool(
 ## 📚 Related Article
 
 This repository accompanies the Medium article series:
-- **Part 1**: [How to Optimize the Hidden Costs of Anthropic Claude APIs: Part 1](YOUR_MEDIUM_LINK)
+- **Part 1**: [How to Optimize the Hidden Costs of Anthropic Claude APIs: Part 1](https://medium.com/p/ce52d08ae3e4)
 - **Part 2**: Advanced optimization strategies (coming soon)
 
 ## 🤝 Contributing
